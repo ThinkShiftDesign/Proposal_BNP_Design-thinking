@@ -60,7 +60,7 @@
           },
           "title": "Design Thinking for BNP Paribas.",
           "text": "By Think.Shift.Design.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-1\" data-toolbar=\"-mbrBtnMove\">Why us?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box2-3\" data-toolbar=\"-mbrBtnMove\">What We Offer?</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-1\" data-toolbar=\"-mbrBtnMove\">Why us?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features1-5\" data-toolbar=\"-mbrBtnMove\">What We Offer?</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -237,10 +237,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-01-whitered-236x128-18.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "http://www.thinkshiftdesign.com",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
