@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-12-19_1615",
-    "currentPage": "training.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -105,7 +105,7 @@
           "title": "Live and Breathe Innovation",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>We are a modern agency. &nbsp;We crowdsource talented and passionate individuals who are dedicated and commited to working with you. Every step of the way.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More about Us</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://www.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More about Us</a>"
         },
         {
           "alias": "purity/components",
@@ -245,7 +245,7 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.thinkshiftdesign.com\" target=\"_blank\">Contact</a></li>"
         }
@@ -290,7 +290,7 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.thinkshiftdesign.com\" target=\"_blank\">Contact</a></li>"
         },
@@ -508,7 +508,7 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.thinkshiftdesign.com\" target=\"_blank\">Contact</a></li>"
         },
@@ -866,7 +866,7 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.thinkshiftdesign.com\" target=\"_blank\">Contact</a></li>"
         },
@@ -1104,7 +1104,7 @@
               "linkInNewWindow": true
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.thinkshiftdesign.com\" target=\"_blank\">Contact</a></li>"
         },
