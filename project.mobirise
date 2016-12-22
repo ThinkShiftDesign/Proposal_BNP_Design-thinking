@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-12-19_1615",
-    "currentPage": "index.html",
+    "currentPage": "consult.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -322,7 +322,7 @@
           },
           "title": "Design Thinking Training Solutions",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">The Design Thinking Mastery Programme</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Training Solutions</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"training.html#msg-box4-a\" data-toolbar=\"-mbrBtnMove\">The Design Thinking Mastery Programme</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"training.html#pricing-table1-12\" data-toolbar=\"-mbrBtnMove\">Training Solutions</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -813,7 +813,7 @@
           },
           "title3": "Resident Change Consultant",
           "caption3": "Troubleshooting the network’s design and architecture issues<br>• Analyzing network and device configurations<br>• Providing network design leadership; assisting in identifying and building solutions<br>• Testing product features and functionality<br>• Providing deployment guidance to ensure that implementations are consistent with<br>design specifications<br>• Providing informal workshops to transfer knowledge to engineering staff<br>• Applying industry best practices to the design, planning, and implementation of<br>the network<br>• Applying extensive industry experience to optimize network performance and<br>proactively analyze potential enhancements<br>• Evaluating technical specifications for interoperability<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Per Month</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"training.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Per Month</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/feature-websites.png",
@@ -894,7 +894,7 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false
           },
           "title": "Toolkit <br>for Design Thinking",
@@ -1132,12 +1132,12 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false
           },
-          "title": "Mobirise",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+          "title": "Advisory and Consulting for Design Thinking",
+          "text": "We can help you to cut down development time by providing you with a on-demand Design Thinking Subject Matter Expert.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         }
       ]
     }
