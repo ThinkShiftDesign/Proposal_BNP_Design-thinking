@@ -1,0 +1,1143 @@
+{
+  "settings": {
+    "name": "NewSite-12-19_1615",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.10.3",
+    "uniqCompNum": 39,
+    "versionPublish": "3.10.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "font-size": "30px"
+            },
+            "H1": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470072242968-5602a4283d62-2000x1344-5.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Design Thinking for BNP Paribas.",
+          "text": "By Think.Shift.Design.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#msg-box4-1\" data-toolbar=\"-mbrBtnMove\">Why us?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box2-3\" data-toolbar=\"-mbrBtnMove\">What We Offer?</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Live and Breathe Innovation",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We are a modern agency. &nbsp;We crowdsource talented and passionate individuals who are dedicated and commited to working with you. Every step of the way.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More about Us</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "title": "We are happy to offer BNP Paribas these 4 Solutions.<br><br>Especially for you.",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-5",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476480862126-209bfaa8edc8-600x400-18.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "training.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<a href=\"training.html\" target=\"_blank\">Training Solutions</a>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1471523094700-e1ec9d935a90-600x400-56.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "leadership.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<a href=\"leadership.html\" target=\"_blank\">Leadership and Change</a>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1432821596592-e2c18b78144f-600x400-53.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<a href=\"toolkit.html\" target=\"_blank\">Toolkit Development</a>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1450101499163-c8848c66ca85-600x400-74.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<a href=\"consult.html\" target=\"_blank\">On-Demand Consulting Services</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "_styles": {
+            "H4": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-6",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        }
+      ]
+    },
+    "training.html": {
+      "settings": {
+        "title": "Design Thinking Training Solutions by TSD",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-7",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-01-whitered-236x128-73.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.thinkshiftdesign.com",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "Design Thinking Training Solutions",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">The Design Thinking Mastery Programme</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Training Solutions</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-a",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/design-thinking-mastery-programme-1400x2070-22.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "The Design Thinking Mastery Programme",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Co-Developed with Design Thinking Singapore, this mastery programme is designed to transfer Design Thinking knowledge, skills and attitudes for all members of your organisation.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "DIV": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "pricing-table1-12",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-warning",
+            "showButtons": false,
+            "secondType": "bg-success",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-danger"
+          },
+          "title1": "Design Thinking Workshop\u001b\u001b\u001b\u001b",
+          "currency1": "",
+          "price1": "",
+          "period1": "<b>$2500 Half-day Workshop<br>$4000 Full-Day Workshop</b><br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Subject Matter Expert ,&nbsp;<br>&nbsp;1 Assistant</b></li><li class=\"list-group-item\"><b><b style=\"font-size: 1rem; line-height: 1.5;\"><br>30 Participants</b></b></li><li class=\"list-group-item\"><b>Presentations<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Hands on Mini-Project<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Learning Management System<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Training Materials</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "Facilitated Design-Driven Innovation&nbsp;",
+          "currency2": "",
+          "price2": "",
+          "period2": "<b>$10000 2 Day Programme<br>$18000 4 Day Programme</b>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>1 Subject Matter Expert, <br>2 Facilitators</b></li><li class=\"list-group-item\"><b>30 Participants</b></li><li class=\"list-group-item\"><b>Presentations<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Rapid Prototyping Projects<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Facilitated Design Project<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Learning Management System<br></b><b style=\"font-size: 1rem; line-height: 1.5;\">Training Materials</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "Design Innovation Mentorship",
+          "currency3": "",
+          "price3": "",
+          "period3": "<b>$350 per hour</b>",
+          "list3": "<ul class=\"list-group list-group-flush\"><b>Mentor as Required</b><br><li class=\"list-group-item\"><b>Recommended Group size up to 8</b></li><li class=\"list-group-item\"><b>Mentor-Trainee Sessions<br>Project Facilitation</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "Design Thinking Projects Support",
+          "currency4": "",
+          "price4": "",
+          "period4": "<b>$350 per hour</b><br>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Subject Matter Expert</b></li><li class=\"list-group-item\"><b>As and When Required</b></li><li class=\"list-group-item\"><b>On-Site Consultations<br>Video Conferencing Sessions</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-11",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Sample Training Materials",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>*These are all example materials that we use in our training.*<br><span style=\"font-size: 1.25rem; line-height: 1.5;\">Please click on them to view them.</span></p><p>We will be happy to customise all training aids to meet your specific needs.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcNW5MeTl2OVZlcjg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Training Programme</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.icloud.com/keynote/0oTPe4kZABIIdxRJQzT1CeKeg#Design_Thinking_-_An_Abridged_Introduction\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interactive Presentation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://sites.google.com/site/samplelmscms/home\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learning Management System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcMmZmaE10Z0loSXc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Activity Worksheet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>"
+        }
+      ]
+    },
+    "leadership.html": {
+      "settings": {
+        "title": "Design Thinking Leadership",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-e",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-01-whitered-236x128-73.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.thinkshiftdesign.com",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header2-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Leadership and Change<br>Design Thinking",
+          "text": "From building a sustainable in-house Design Thinking capability and capacity, to developing a effective and high performing system. We have a range of &nbsp;leadership activities that inspire organisational development, change and renewal just for you!&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-g",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463671065373-86eb1ee0b98c-1400x1400-82.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Introducing.... <br>The Design Thinking Champion",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>An Organisational Champion is a passionate team member who is driven and motivated to drive innovation in your organisation. </p><p>We strive to inspire champions within the organisation to take on important roles that&nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">institute change, advocate for and promote the change from within, and drive the Design Thinking culture in your Organisation.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "_inherit": "msg-box1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-x",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Try for Free</a>",
+          "title": "The roles that we could cultivate are...",
+          "text": ""
+        },
+        {
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_params": {
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "slides": [
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473832986350-f2eb0d0d41c9-2000x3000-97.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473832986350-f2eb0d0d41c9-2000x3000-97-1600x900-51.jpg",
+                "title": "Problem-Solvers",
+                "text": "Every Team member should be a problem Solver. A problem-solver reflects upon performance and takes responsibility for maintaining optimal performance. He/She recognises problems, analyses them, take corrective actions and eventally acts to prevent future occurances. ",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473832986350-f2eb0d0d41c9-2000x3000-97-85x48-14.jpg"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1478809846154-d4ca173df3e0-2000x1365-40.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1478809846154-d4ca173df3e0-2000x1365-40-1600x900-93.jpg",
+                "title": "Innovators",
+                "text": "Every Problem Solver should aspire to be an Innovator.  An Innovator takes responsibiity for introducing something new to improve the system. He/She invents, seek practical applications, and provide the agility and flexibility to keep pace with change.",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1478809846154-d4ca173df3e0-2000x1365-40-85x48-6.jpg"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1472057313365-2c5fd36c02bb-2000x3000-6.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1472057313365-2c5fd36c02bb-2000x3000-6-1600x900-55.jpg",
+                "title": "Coaches",
+                "text": "Every leader should be a Coach. Coaches enable performers to continuously increase effectiveness. He/She motivates and potentiates the competence of performers while avoiding underachievement from misdirection of talent. ",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1472057313365-2c5fd36c02bb-2000x3000-6-85x48-1.jpg"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470611529594-9a532103aad2-2000x1333-71.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470611529594-9a532103aad2-2000x1333-71-1600x900-98.jpg",
+                "title": "Team-Builders",
+                "text": "Every Manager should be a Team Builder. A Team Builder transforms people into a cohesive unit focused on achieving high-performance goals. He/She facilitates, pays attention to task progress, builds social capital and make members feel accountable for their team.",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470611529594-9a532103aad2-2000x1333-71-85x48-78.jpg"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473625247510-8ceb1760943f-2000x1431-84.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473625247510-8ceb1760943f-2000x1431-84-1600x900-46.jpg",
+                "title": "Change-Masters",
+                "text": "Every Manager should be a change master. A Change Master is a catalyst in implementing organisational improvements and renewal. He/She creates unity of purpose, identify realistic steps and maintains momentum for sustained development of capabilities over quick fixes.",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1473625247510-8ceb1760943f-2000x1431-84-85x48-72.jpg"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1461691856507-0d746661713f-2000x1333-54.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1461691856507-0d746661713f-2000x1333-54-1600x900-10.jpg",
+                "title": "Social-Architects",
+                "text": "Every senior managemer should be a Social Architect. Social architects are the masters of orgnisational transformation. They focus on changes that renew the total orgnisation and strive for sustained competitive advantage. They integrate responsive strategies, utilize the latest technologies and best practices, and engage stakeholders for continuous orgnisational excellence.",
+                "tooltip": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1461691856507-0d746661713f-2000x1333-54-85x48-19.jpg"
+              }
+            ],
+            "theme": "material",
+            "bgColor": "#ffffff",
+            "animType": "blur",
+            "autoplay": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "fullScreen": true,
+            "showBullets": false,
+            "timeout": 2,
+            "duration": 2,
+            "height": "576",
+            "width": "1024",
+            "responsive": "2",
+            "showCaptions": true,
+            "captionsEffect": "slide",
+            "hideControls": false
+          },
+          "_anchor": "wowslider-i",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content5-v",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Problem Solvers | Innovators | Coaches | Team Builders | Change Masters | Social Architects",
+          "caption": "<p>We work with management to identify potential candidates and/or volunteers. <br>Together, we will create a series of&nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">specially targeted and formulated professional development activities such as:&nbsp;</span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Training Workshops<br>Knowledge Transfer/ Mentorship Programmes<br>&nbsp;Facilitated Design Thinking Projects<br>Community of Practice<br>and more...<br><br>Choose between the options below.</span></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-y",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "BYOT: Build Your Own Training",
+          "caption1": "An ala-carte style where you pick the training options that best suits the profile of your champions and the goals that follow.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">See details and prices for Training Solutions&nbsp;</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Project-Based Change Management",
+          "caption2": "<br>A comprehensive change management project that focuses on helping your members make successful personal transitions resulting in the adoption and realisation of change. Includes goal and strategy setting, setting of performance indicators, &nbsp;milestones, time- lines and use of &nbsp;process, tools and techniques to manage the people side of change to achieve the required business outcome.<span style=\"font-size: 1rem; line-height: 1.5;\">ge.</span><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Per Hour</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Resident Change Consultant",
+          "caption3": "Troubleshooting the network’s design and architecture issues<br>• Analyzing network and device configurations<br>• Providing network design leadership; assisting in identifying and building solutions<br>• Testing product features and functionality<br>• Providing deployment guidance to ensure that implementations are consistent with<br>design specifications<br>• Providing informal workshops to transfer knowledge to engineering staff<br>• Applying industry best practices to the design, planning, and implementation of<br>the network<br>• Applying extensive industry experience to optimize network performance and<br>proactively analyze potential enhancements<br>• Evaluating technical specifications for interoperability<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Per Month</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>"
+        }
+      ]
+    },
+    "toolkit.html": {
+      "settings": {
+        "title": "Design Thinking Toolkit"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-j",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-01-whitered-236x128-73.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.thinkshiftdesign.com",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Toolkit <br>for Design Thinking",
+          "text": "A process of creativity and innovation is notoriously difficult to cultivate and quantify. &nbsp;We believe in the creation of a toolkit, containing various tools, visual aids and resources to support and &nbsp;nurture the Design Thinking process. &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-n",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Toolkit Examples",
+          "caption": "<p>There are many toolkits out there. Here are some samples below.<br><br></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-o",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "IDEO Design Kit",
+          "caption1": "This design thinking tool from open IDEO is a step by step guide to the elements of human-centered design. It is specifically designed for social enterprises and NGO’s and gives an in depth look at design thinking.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.ideo.com/post/design-kit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read about it<br></a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "Innovation Flow Chart",
+          "caption2": "This chart maps out a design thinking process before you begin. Set the stages, skills, and risks that are relevant to your project and keep it on your wall as you move through them. Update and edit as the project ebbs and flows.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://diytoolkit.org/tools/innovation-flowchart-2/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See the Chart</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Question Ladder",
+          "caption3": "This worksheet aids to ask the right questions to open and invite innovation. The guide helps to define questions and disperse workload. A useful tool in the design thinking process!",
+          "button3": "<a data-app-btn=\"true\" href=\"http://diytoolkit.org/tools/question-ladder/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See the Worksheet</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Toolkit for Patron-Centered Design",
+          "caption4": "This is a toolkit specifically designed for the library setting, putting design thinkers through the design thinking lens, so that they can start coming up with solutions to everyday challenges within the library.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://designthinkingforlibraries.com/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Sample the Tool</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-q",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1442406964439-e46ab8eff7c4-1400x933-20.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Developing a Design Thinking Toolkit for BNP Paribas",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Why not design your very own in-house toolkit. One that is specially customised to your organisational makeup, needs and footprint. </span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">We're happy to develop one for you, or better yet, work together with your team to create one that is  uniquely yours!&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-r",
+          "text": "<p>Our team of Visual Designers, Organsation Developers and Communication Specialists will work hand in hand with you to develop a toolkit that will be customised to your every need.<br><br><b>Toolkit Features</b></p><ul><li>24hr Web access platform</li><li>Interactive publication&nbsp;</li><li>Visual aids and diagrams</li><li>Integration with your organisation's current systems and processes</li><li>Copyright and Intellectual Property owned by BNP Paribas</li><li>Design Thinking in Action: We will create the toolkit using the Design Thinking Method!</li></ul><p><br></p><p><b>What it entails:</b></p><ul><li>Needs Analysis surveys with team members</li><li>Interviews with key stakeholders</li><li>Face-to-Face and Video-conferencing consultations</li><li>Prototyping and testing of concepts and designs</li></ul><p><br></p><p><b>Estimated cost for Tool-Kit Development</b></p><p>SGD$15,000 onwards</p><p><b>Time-Frame<br></b>2 to 3 Months</p><p><br></p>"
+        }
+      ]
+    },
+    "consult.html": {
+      "settings": {
+        "title": "Design Thinking On-demand Consultation"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-t",
+          "_params": {
+            "hamburgerColor": "#000",
+            "sticky": true,
+            "transparent": false,
+            "color": "#fff",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tsd-logo-01-whitered-236x128-73.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.thinkshiftdesign.com",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Design Thinking by Think.Shift.Design.</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Introduction</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-success\" data-app-selector=\".nav-link\" href=\"training.html\"><span class=\"mdi-editor-insert-emoticon mbr-iconfont mbr-iconfont-btn-parent\"></span>Training</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn-parent\"></span>Leadership</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-danger\" data-app-selector=\".nav-link\" href=\"toolkit.html\"><span class=\"mdi-action-work mbr-iconfont mbr-iconfont-btn-parent\"></span>Toolkit</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"leadership.html\"><span class=\"mdi-action-face-unlock mbr-iconfont mbr-iconfont-btn-parent\"></span>Consult</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Mobirise",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        }
+      ]
+    }
+  }
+}
