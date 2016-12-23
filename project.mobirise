@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Proposal for BNP Paribas",
-    "currentPage": "index.html",
+    "currentPage": "leadership.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -109,7 +109,7 @@
           "title": "Live and Breathe Innovation",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>We are a modern agency. &nbsp;We crowdsource talented and passionate individuals who are dedicated and commited to working with you. Every step of the way.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://www.thinkshiftdesign.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More about Us</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More about us</a> "
         },
         {
           "alias": "purity/components",
@@ -600,7 +600,7 @@
           "title": "See some of our Sample Materials",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>*These are all example materials that we use in our training.*<br><span style=\"font-size: 1.25rem; line-height: 1.5;\">Please click on them to view them.</span></p><p>We will be happy to customise all training aids to meet your specific needs.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcNW5MeTl2OVZlcjg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Training Programme</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.icloud.com/keynote/0oTPe4kZABIIdxRJQzT1CeKeg#Design_Thinking_-_An_Abridged_Introduction\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interactive Presentation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://sites.google.com/site/samplelmscms/home\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learning Management System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcMmZmaE10Z0loSXc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Activity Worksheet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcQWlueVJtc1JDbnM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Design Thinking Project</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcNW5MeTl2OVZlcjg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Training Programme</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.icloud.com/keynote/0oTPe4kZABIIdxRJQzT1CeKeg#Design_Thinking_-_An_Abridged_Introduction\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interactive Presentation</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://sites.google.com/site/samplelmscms/home\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learning Management System</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcMmZmaE10Z0loSXc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Activity Worksheet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://drive.google.com/open?id=0B2Mlxd1VkeqcQU54cXdFbHMzZzg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Design Thinking Project</a> "
         }
       ]
     },
@@ -684,12 +684,12 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "title": "Leadership and Change<br>Design Thinking",
           "text": "From building a sustainable in-house Design Thinking capability and capacity, to developing a effective and high performing system. We have a range of &nbsp;leadership activities that inspire organisational development, change and renewal just for you!&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Build Your Own Training</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Change Management Project</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Support</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -939,7 +939,7 @@
           },
           "title1": "BYOT: Build Your Own Training",
           "caption1": "An ala-carte style where you pick the training options that best suits the profile of your champions and the goals that follow.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"leadership.html#features1-y\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See details and prices for Training Options&nbsp;</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"training.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">See details and prices for Training Options&nbsp;</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/feature-responsive.png",
@@ -950,7 +950,7 @@
           },
           "title2": "Project-Based Change Management",
           "caption2": "<br>A comprehensive change management project that focuses on helping your members make successful personal transitions resulting in the adoption and realisation of change. <br><span style=\"font-size: 1rem; line-height: 1.5;\">Includes goal and strategy setting, setting of performance indicators, &nbsp;milestones, time- lines and use of &nbsp;process, tools and techniques to manage the people side of change to achieve the required business outcomes!</span><br><br><b>Cost</b><br>From $5,000",
-          "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact us for a &nbsp;Detailed Discussion!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Contact us for a &nbsp;Detailed Discussion!</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
@@ -961,7 +961,7 @@
           },
           "title3": "Change Advisory and Support for Design Thinking",
           "caption3": "Our Change Management Experts will see to the strategy, planning, implementation, monitoring and reporting of the process of creating a Design Thinking culture in your organisation. &nbsp;<br>Choose from on-site consultation sessions to video conferencing sessions.&nbsp;<br>We will support you every step of the way!<br><br><b>Cost</b><br>$350 per hour",
-          "button3": "<a data-app-btn=\"true\" href=\"leadership.html#features1-y\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See our Team of Design Thinkers</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">See our Team of Design Thinkers</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/feature-websites.png",
@@ -1055,7 +1055,7 @@
           },
           "title": "Toolkit <br>for Design Thinking",
           "text": "A process of creativity and innovation is notoriously difficult to cultivate and quantify. &nbsp;We believe in the creation of a toolkit, containing various tools, visual aids and resources to support and &nbsp;nurture the Design Thinking process. &nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"toolkit.html#content1-r\" data-toolbar=\"-mbrBtnMove\">Design Thinking Toolkit for BNP Paribas</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"toolkit.html#content1-r\" data-toolbar=\"-mbrBtnMove\">Design Thinking Toolkit for BNP Paribas</a>"
         },
         {
           "alias": "purity/components",
@@ -1213,7 +1213,7 @@
             }
           },
           "_anchor": "content1-r",
-          "text": "<p>Our team of Visual Designers, Organsation Developers and Communication Specialists will work hand in hand with you to develop a toolkit that will be customised to your every need.<br><br><b>Toolkit Features</b></p><ul><li>24hr Web access platform</li><li>Interactive publication&nbsp;</li><li>Visual aids and diagrams</li><li>Integration with your organisation's current systems and processes</li><li>Copyright and Intellectual Property owned by BNP Paribas</li><li>Design Thinking in Action: We will create the toolkit using the Design Thinking Method!</li></ul><p><br></p><p><b>What it entails:</b></p><ul><li>Needs Analysis surveys with team members</li><li>Interviews with key stakeholders</li><li>Face-to-Face and Video-conferencing consultations</li><li>Prototyping and testing of concepts and designs</li></ul><p><br></p><p><b>Estimated cost for Toolkit Development</b></p><p>SGD$15,000 onwards</p>"
+          "text": "<p>Our team of Visual Designers, Organsation Developers and Communication Specialists will work hand in hand with you to develop a toolkit that will be customised to your every need.<br><br><b>Toolkit Features</b></p><ul><li>24hr Web access platform</li><li>Interactive publication&nbsp;</li><li>Visual aids and diagrams</li><li>Integration with your organisation's current systems and processes</li><li>Copyright and Intellectual Property owned by BNP Paribas</li><li>Design Thinking in Action: We will create the toolkit using the Design Thinking Method!</li></ul><p><br></p><p><b>What it entails:</b></p><ul><li>Needs Analysis surveys with team members</li><li>Interviews with key stakeholders</li><li>Face-to-Face and Video-conferencing consultations</li><li>Prototyping and testing of concepts and designs</li></ul><p><br></p><p><b>Estimated cost for Toolkit Development</b></p><p>SGD$10,000 onwards</p>"
         }
       ]
     },
@@ -1582,7 +1582,7 @@
           },
           "title": "Support \u001bfor Design Thinking&nbsp;",
           "text": "We can support your Design Thinking Journey by providing you with an on-demand Design Thinking expertiese.&nbsp;Or we can fully run a Design Thinking Project for you.<br>The choice is yours!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">On-Demand Advisory</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Design Thinking Project Management</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"support.html#features1-18\" data-toolbar=\"-mbrBtnMove\">On-Demand Advisory</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"support.html#features1-18\" data-toolbar=\"-mbrBtnMove\">Design Thinking Project Management</a>"
         },
         {
           "alias": "purity/components",
@@ -1629,7 +1629,7 @@
           },
           "title1": "On-Demand Advisory &amp; Support",
           "caption1": "Our Design Thinking Team is ever-ready to provide on-demand advisory and consulting support. As your think-tank, we are more than capable to meet every challenge &nbsp;and solve every problem with creativity and innovation. <br>Assured.<br><br>- Video Conferencing<br>- &nbsp;Face to Face Consultation<br><br><b>Costs</b>:<br>$350 per hour<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"adviseprojects.html#features1-18\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Our Design Thinking Team</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Our Design Thinking Team</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1432888498266-38ffec3eaf0a-600x398-35.jpg",
