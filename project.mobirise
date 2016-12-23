@@ -689,7 +689,7 @@
           },
           "title": "Leadership and Change<br>Design Thinking",
           "text": "From building a sustainable in-house Design Thinking capability and capacity, to developing a effective and high performing system. We have a range of &nbsp;leadership activities that inspire organisational development, change and renewal just for you!&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Build Your Own Training</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Change Management Project</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">Support</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"leadership.html#features1-y\" data-toolbar=\"-mbrBtnMove\">Build Your Own Training</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"leadership.html#features1-y\" data-toolbar=\"-mbrBtnMove\">Change Management Project</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"leadership.html#features1-y\" data-toolbar=\"-mbrBtnMove\">Support</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -1251,7 +1251,7 @@
           },
           "title": "More about us.",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About Design Thinking by Think.Shift.Design</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"team.html#features1-14\" data-toolbar=\"-mbrBtnMove\">The Design Thinking Team for PNB Paribas</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"about.html#content5-1f\" data-toolbar=\"-mbrBtnMove\">About Design Thinking by Think.Shift.Design</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"team.html#features1-14\" data-toolbar=\"-mbrBtnMove\">The Design Thinking Team for PNB Paribas</a>"
         },
         {
           "alias": "purity/components",
@@ -1464,7 +1464,7 @@
           },
           "title2": "Ida Norrby",
           "caption2": "Ida is an Art Director &amp; Design Thinker with broad international experience.<br><br>She has worked for branding agencies in New York City as an Art Director for the Swedish fashion company Björn Borg as well as an independent designer. She operates in interdisciplinary and global teams in Scandinavia, Europe, Asia and the US.<br><br>Through design-led innovation (Design Thinking) and branding process based on value and purpose she help clients develop meaningful solutions and connections with users and customers. Solutions that lead to long lasting relationships and a greater impact.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/idanorrby\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Linkedin Profile</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/idanorrby\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My LinkedIn Profile</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/thamcp-600x600-55.jpg",
@@ -1479,7 +1479,7 @@
           },
           "title3": "Tham Chien Ping",
           "caption3": "CP is a Learning and Organisation Development practice leader.  Having been to various industries including Government, Banking, Information Technology and Healthcare, CP has led many projects in the area of Change Leadership and Management.  <br><br>He is certified in various methodologies and tools in and has successfully leveraged on them to develop and customised learning programs and evaluation metrics that brought results. His recent clients include Baxter, Continental Group and Citibank.&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/thamcp\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CP's Linkedin Profile</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.linkedin.com/in/thamcp\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CP's LinkedIn Profile</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/john-lee-600x600-83.png",
